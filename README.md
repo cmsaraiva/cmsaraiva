@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there I am Carlos 👋
 
-<!--
-**cmsaraiva/cmsaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack developer with 4+ years of experience, I specialize ruby and modern frontend frameworks like react, I have a background in Telecommunications and Computer Science.
 
-Here are some ideas to get you started:
+### 👩🏻‍💻 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<p align="center">
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width='50' style="margin:30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" width='50' style="margin:30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width='50' style="margin:30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width='50' style="margin:30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width='50' style="margin:30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width='50' style="margin:30px">
+
+</p>
+<br/>
+
+
